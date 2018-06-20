@@ -1,0 +1,8 @@
+/tmp/java_tcaCoA/decode.java:35: error: ')' expected
+                if (build != null && Integer.parseInt(build.toString()) {
+                                                                       ^
+/tmp/java_tcaCoA/decode.java:47: error: ')' expected
+                    String repeat = repeat(string.pop(), Integer.parseInt(number.pop());
+                                                                                       ^
+2 errors
+
