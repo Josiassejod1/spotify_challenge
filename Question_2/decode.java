@@ -31,7 +31,7 @@ public class decode{
         StringBuilder number = new StringBuilder();
         StringBuilder string = new StringBuilder();
         StringBuilder master = new StringBuilder();
-        
+         stack.push(Character.toString(s.charAt(0)));
         for (int i = 0; i < s.length(); i++) {
             char c =  s.charAt(i);
             
